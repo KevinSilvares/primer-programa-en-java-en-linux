@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Mi deporte favorito es el automovilismo");
 		System.out.println("Mi lugar favorito es León");
+		System.out.println("Mi red social favorita es Instagram");
 	
 	}
 
